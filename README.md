@@ -11,19 +11,19 @@
 
 ---
 
-## 🚀 About FysonWorks
+##  About FysonWorks
 FysonWorks is a development group focused on creating sleek, innovative software and visually polished digital experiences.  
 We specialize in:
 
-- ⚡ Custom Python tools  
-- 🎮 Game development (Roblox & Unity)  
-- 🧩 UI/UX prototypes & apps  
-- 🤖 AI-powered utilities  
-- 🌐 Clean, modern web projects  
+-  Custom Python tools  
+-  Game development (Roblox & Unity)  
+-  UI/UX prototypes & apps  
+-  AI-powered utilities  
+-  Clean, modern web projects  
 
 ---
 
-## 🛠️ Current Focus
+##  Current Focus
 We’re building projects that combine:
 
 - High performance  
