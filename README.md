@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FysonWorks/.github/main/profile/logo.png" width="120" />
+  <img src="https://raw.githubusercontent.com/FysonWorks/.github/main/logo.png" width="120" />
 </p>
+
 
 <h1 align="center">FysonWorks</h1>
 
